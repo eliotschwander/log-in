@@ -1,0 +1,19 @@
+body{
+	background-color: #E8E8E8 ;
+	text-align: center;
+}
+label {
+  width: 200px;
+  display: inline-block;
+  font-weight: bold;
+  margin: 3px;
+}
+ul
+{
+list-style-type: none;
+}
+button{
+	padding: 5px;
+	font-weight: bold;
+	margin: 10px;
+}
